@@ -1,0 +1,11 @@
+/* import styled from "styled-components";
+
+export const StyledLabel = styled.label`
+    font-size: 0.75rem;
+    color: var(--grey-0);
+`; */
+
+label {
+  font-size: 0.75rem;
+  color: var(--grey-0);
+}
